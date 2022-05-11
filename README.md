@@ -13,7 +13,7 @@ with basic confidential information and having the right classification of group
 add different level of priviledges later if the application was to continue being built out. 
 ### Basic Inheritance with Coordinates
 This program showcases base knowlegde with inheritance with a Point Class, Circle Class, and Cylinder Class.
-The potential I see with the program could be a piece to starting a project adding a GUI project.
+The potential I see with the program could be a piece to starting a GUI project.
 ### Crypotgraphy Messages
 This program showcases base knowledge of how to encrypt and decrypt messages. The potential I see with the program
 would be the base level of security with encrypting messages being sent while the receiver able to decrypt the message.
